@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4C7D-323C
+
+ Directory of C:\Users\ADMIN\Desktop\Project
+
+24-06-2021  00:25    <DIR>          .
+24-06-2021  00:25    <DIR>          ..
+24-06-2021  00:25                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  77,566,857,216 bytes free
